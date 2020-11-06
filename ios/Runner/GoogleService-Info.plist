@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1050651086202-4j6p5dpao8el17ugqjktdo1im0v05aka.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1050651086202-4j6p5dpao8el17ugqjktdo1im0v05aka</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBUyy4uhHAGeQsE1xhvWRY0Lt1q41yL1zA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1050651086202</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.attendApp</string>
+	<key>PROJECT_ID</key>
+	<string>dika-attend</string>
+	<key>STORAGE_BUCKET</key>
+	<string>dika-attend.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1050651086202:ios:5f7e366f3b5c3392031ac3</string>
+	<key>DATABASE_URL</key>
+	<string>https://dika-attend.firebaseio.com</string>
+</dict>
+</plist>

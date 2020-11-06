@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1050651086202",
+    "firebase_url": "https://dika-attend.firebaseio.com",
+    "project_id": "dika-attend",
+    "storage_bucket": "dika-attend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050651086202:android:7e64f995a89747dc031ac3",
+        "android_client_info": {
+          "package_name": "com.example.attend_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050651086202-stdi6dqsn4hcgefioqncl1ui2qmtkohb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwHEmo0JzbFGHq-x5u4OTXl7v60KdDmEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050651086202-stdi6dqsn4hcgefioqncl1ui2qmtkohb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
